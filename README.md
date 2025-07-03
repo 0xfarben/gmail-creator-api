@@ -1,4 +1,4 @@
-# [Free-Gmail-API](https://rapidapi.com/canvabouys/api/free-gmail-api)- Empower Your Email Testing! 🌟
+# [Free-Gmail-API](https://rapidapi.com/canvabouys/api/free-gmail-api){:target="_blank"}- Empower Your Email Testing! 🌟
 
 Welcome to **FREE-GMAIL-API**, your go-to solution for generating temporary Gmail addresses and retrieving messages effortlessly. This API, built with FastAPI and integrated with Emailnator, is designed for developers seeking privacy, testing, and automation capabilities. Unlock its full potential with this guide!
 
@@ -28,7 +28,7 @@ Free-Gmail-API allows you to:
 - `/message-details`: `{"id": "message_id", "from": "sender", "subject": "subject", "time": "time", "refined_content": "text"}`
 
 ### Get API and Key from
-[Link to API](https://rapidapi.com/canvabouys/api/free-gmail-api)
+[Link to API](https://rapidapi.com/canvabouys/api/free-gmail-api){:target="_blank"}
 
 ## 📜 Terms of Service
 Use responsibly. No spamming or illegal activities.
